@@ -1,0 +1,102 @@
+﻿* {
+  outline: none;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+/* Your code goes here */
+.img-1{
+  width: 200px;
+  height: 200px;
+}
+
+.footer-bg{
+  background-image: url(../img/footer-bg.jpg);
+  background-position: center;
+}
+
+.bg-black{
+  background-color: black;
+}
+.transparent-input{
+  background-color:transparent ;
+  border:none;
+}
+
+.form-heigh{
+  height: 520px ;
+}
+
+.block-heigh{
+  height: 700px;
+}
+
+.circle {
+  border-radius: 50%;
+  height: 1em;
+  width: 1em;
+}
+
+.purple-bg{
+  background-color: #62436F;
+}
+
+.light-purple-bg{
+  background-color: #C0B4C5;
+}
+
+.xs-hr{
+	border:solid 2px;
+	width: 60px;
+}
+
+.back-img{
+	top: 140px;
+    left: 200px;
+}
+
+.back-img-width{
+	width: 320px;
+}
+
+.front-img-width{
+	width: 200px;
+}
+
+.front-img{
+    bottom: 10px;
+    right: 48px;
+}
+
+.card-text-width{
+	max-width: 670px;
+}
+
+.big-img-height{
+	max-height: 710px;
+}
+
+.m-0-auto{
+	margin: 0 auto;
+}
+
+.header-bg{
+	background-image: url(../img/header-bg.jpg);
+	background-position:top;
+}
+
+.btn-bg{
+	background-image: url(../img/touch-bg.png);
+	background-position:center;
+}
+
+.get-in-tuch-btn{
+	width: 295px;
+    border-radius: 60px;
+    text-align: center;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
